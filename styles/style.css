@@ -1,0 +1,33 @@
+html {
+    background-color: #4A4152;
+    font-size: 10px;
+    font-family: 'New Tegomin', serif;
+}
+
+body {
+    background-color: #F0EEEE;
+    margin: 0 auto;
+    padding: 0 100px 20px 100px;
+    width: 800px;
+    border: 5px solid black;
+}
+
+h1 {
+    color: #280C00;
+    font-size: 86px;
+    margin: 0;
+    padding: 20px 0;
+    text-align: center;
+    text-shadow: 3px 3px 3px #6A6040;
+}
+
+a, p, li {
+    font-size: 24px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
